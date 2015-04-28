@@ -1,0 +1,2 @@
+# SetLinkAllPageOnStamp.js
+AdobeAcrobatPro用のアドオンメニューツールJavaScripts
