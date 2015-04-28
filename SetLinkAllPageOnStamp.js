@@ -21,7 +21,7 @@ console.show();
 var strResponse = app.response({
 		cQuestion: "リンクオブジェクト用のURLを入力",
 		cTitle: "URLを入力してください",
-		cDefault: "http://",
+		cDefault: "http:// or mailto:",
 		cLabel:"入力:"
 		});
 //デバッグ用のコンソールログ
